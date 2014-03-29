@@ -28,5 +28,13 @@ A repo to keep track of learning resources
 ## Management
 
 - [Democratic Design](http://worldblu.com/democratic-design/)
+- [How Google Sold Its Engineers on Management](http://hbr.org/2013/12/how-google-sold-its-engineers-on-management/ar/1)
+- [Feedback](http://firstround.com/article/23-Tools-to-Make-Feedback-Meaningful)
+- [Why good managers are so rare](http://blogs.hbr.org/2014/03/why-good-managers-are-so-rare/)
+
+## Culture
+
+- [Tech Workers, Political Speech & Economic Threat](http://modelviewculture.com/pieces/tech-workers-political-speech-and-economic-threat)
+
 
 [![Analytics](https://ga-beacon.appspot.com/UA-46840117-1/learn/readme?pixel)](https://github.com/igrigorik/ga-beacon)
