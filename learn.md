@@ -31,6 +31,7 @@ A repo to keep track of learning resources
 - [How Google Sold Its Engineers on Management](http://hbr.org/2013/12/how-google-sold-its-engineers-on-management/ar/1)
 - [Feedback](http://firstround.com/article/23-Tools-to-Make-Feedback-Meaningful)
 - [Why good managers are so rare](http://blogs.hbr.org/2014/03/why-good-managers-are-so-rare/)
+- [Mentoring over distance](http://www.youtube.com/watch?v=A64Z8vMd6Q8&utm_content=buffer1ef29&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
 ## Culture
 
